@@ -69,8 +69,7 @@ body{
 }
 .hero{
     height: 87%;
-    display: flex;
-   
+    display: flex; 
 }
 .hero .container{
     display: flex;
@@ -90,7 +89,7 @@ body{
    
 }
 .hero-section h1{
-    font-size: 54px;
+    font-size: 50px;
     line-height: 0.5;
     text-align: center;
     /* margin-top: 16px; */
@@ -103,7 +102,7 @@ body{
     margin-bottom: 28px;
 }
 .hero-section p{
-    font-size: 16px;
+    font-size: 13px;
     line-height: normal;
     /* margin-bottom: 30px; */
 
@@ -182,7 +181,7 @@ body{
 }
 .form-a-table .right-side p{
     font-size: 14px;
-    line-height: 28px;
+    line-height: 25px;
     color:#333333;
 }
 .right-side .button-wrap{
@@ -299,7 +298,7 @@ form .row4 input{
     margin-bottom: 10px;
 }
 .consult-part .consult-wrap .info{
-    font-size: 16px;
+    font-size: 13px;
     color:#ffffff;
 }
 footer{
