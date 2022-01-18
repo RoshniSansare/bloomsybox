@@ -213,14 +213,14 @@ body{
 .left-part ul{
     flex-direction: column;
 }
-.from-part{
+.form-part{
     width:50%;
     background-color: #ef1f2e;
 }
-.from-part form{
+.form-part form{
     padding: 80px 95px 62px 90px;
 }
-.from-part form input{
+.form-part form input{
     padding: 14px 15px;
     max-width: 258px;
     width: 100%;
@@ -229,7 +229,7 @@ body{
     outline: none;
     border: none;
 }
-.from-part form textarea{
+.form-part form textarea{
     padding: 14px 15px;
     max-width: 530px;
     width: 100%; 
@@ -242,8 +242,8 @@ body{
 form > div{
     display: flex;
 }
-.from-part form .row1 input:nth-child(1),
-.from-part form .row2 input:nth-child(1){
+.form-part form .row1 input:nth-child(1),
+.form-part form .row2 input:nth-child(1){
     margin-right: 14px;
 }
 
