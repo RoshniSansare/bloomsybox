@@ -162,9 +162,9 @@ body{
     max-width: 1270px;
     width:100%;
     margin:0 auto;
-    padding: 0 15px;
+    padding: 50px;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
 }
 .farm-to-table .leftside{
     max-width: 710px;
@@ -315,6 +315,9 @@ form .row4 input{
 }
 footer{
     padding: 64px;
+    max-width: 1270px;
+    justify-content: center;
+    margin: 0  auto;
     background-color: #ffffff;
 }
 .footerlinks{
